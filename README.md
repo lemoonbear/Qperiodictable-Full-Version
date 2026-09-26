@@ -238,4 +238,4 @@ This repository serves as the official landing page for QPeriodicTable. The soft
 **Get the most recent version of QPeriodicTable today!**
 
 ---
-**Last updated:** 2026-09-26 14:03:57 UTC
+**Last updated:** 2026-09-26 18:17:21 UTC
